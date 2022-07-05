@@ -69,17 +69,23 @@ item 4 | item 5 |item 6
 
 ## 📝Descrição
 
-### ⚙ Features
+### ⚙Features
 
 - [x] Feature 01
 - [x] Cadastro de cliente
 - [ ] Cadastro de produtos
 
-## 📂 Estrutura de Pastas
+## 📂Estrutura de Pastas
 
-VSCode File tree generator
+VSCode [File tree generator](https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.file-tree-generator)
 
-Exemplo do projeto Clipz (com ícones)
+Exemplo do projeto [Clipz](https://github.com/RafaZeero/angular-clipz) (com ícones)
+<details>
+  
+<summary style="font-size:14px">Ver estrutura</summary>
+  
+
+  
 ```markdown
 📦src
  ┣ 📂app
@@ -223,6 +229,10 @@ Exemplo do projeto Clipz (com ícones)
  ┣ 📜styles.scss
  ┗ 📜test.ts
 ```
+
+  
+</details>
+
 
 ## 📚Aprendizado
 
