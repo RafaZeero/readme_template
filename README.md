@@ -67,15 +67,15 @@ item 4 | item 5 |item 6
 
 # Nome do Projeto
 
-## Descrição
+## 📝Descrição
 
-### Features
+### ⚙ Features
 
 - [x] Feature 01
 - [x] Cadastro de cliente
 - [ ] Cadastro de produtos
 
-## Estrutura de Pastas
+## 📂 Estrutura de Pastas
 
 VSCode File tree generator
 
@@ -224,15 +224,15 @@ Exemplo do projeto Clipz (com ícones)
  ┗ 📜test.ts
 ```
 
-## Aprendizado
+## 📚Aprendizado
 
-## Desafios
+## 🚀Desafios
 
-## Construção
+## 🚧Construção
 
-## Tecnologias
+## ⚡Tecnologias
 
-## Autor
+## 😄Autor 
 
 
 <table>
