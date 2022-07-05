@@ -6,7 +6,10 @@
 - [Links](#links)
   - [Badges](#badges)
 - [Templates](#templates)
+  - [Linguagem](#linguagem)
   - [Tabela](#tabela)
+  - [Flow Chart](#flow-chart)
+  - [Diagrama](#diagrama)
   - [Projetos](#projetos)
     - [Nome do Projeto](#nome-do-projeto)
     - [Descrição do Projeto](#descrição)
@@ -49,6 +52,24 @@ Encontra-se nesse repositório do github [Badges](https://github.com/Ileriayo/ma
 
 ## Templates
 
+### Linguagem
+
+* bash
+
+```bash
+npm install 
+```
+
+* javascript
+
+```javascript
+let code = 'clean';
+```
+
+### Notas
+
+> **Note:** This is a **Note**. There is no content here, sorry ~
+
 
 ### Tabela
 
@@ -61,6 +82,30 @@ coluna 1         |  coluna 2 | coluna 3
 :-------------------------:|:-------------------------:|:-------------------------:
 item 1  |  item 2 | item 3
 item 4 | item 5 |item 6
+
+### Flow Chart
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
+
+### Diagrama
+
+```mermaid
+sequenceDiagram
+Alice ->> Bob: Hello Bob, how are you?
+Bob-->>John: How about you John?
+Bob--x Alice: I am good thanks!
+Bob-x John: I am good thanks!
+Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Bob-->Alice: Checking with John...
+Alice->John: Yes... John, how are you?
+```
 
 
 ### Projetos
