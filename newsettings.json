@@ -1,0 +1,96 @@
+{
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "vscode-icons",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "editor.minimap.enabled": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.codeActionsOnSave": {
+    // "source.organizeImports": true // Sort imports
+    // "source.fixAll": true // remove unused code
+  },
+  // formatter
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // prettier
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.semi": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.printWidth": 100,
+  "prettier.trailingComma": "none",
+  "prettier.arrowParens": "avoid",
+  "prettier.endOfLine": "auto",
+  "prettier.requireConfig": false,
+  // "prettier.configPath": ".prettierrc",
+  //eslint
+  "eslint.alwaysShowStatus": true,
+  // "[javascriptreact]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  // // // "javascript.updateImportsOnFileMove.enabled": "prompt",
+  // "[typescript]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  // "[javascript]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  // "[html]": {
+  //   //   // "editor.defaultFormatter": "esbenp.prettier-vscode"
+  //   "editor.defaultFormatter": "vscode.html-language-features"
+  // },
+  // "[typescriptreact]": {
+  //   "editor.defaultFormatter": "vscode.typescript-language-features"
+  // },
+  // "[css]": {
+  //   "editor.defaultFormatter": "vscode.css-language-features"
+  // },
+  // "[scss]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  // Tailwind
+  // "tailwindCSS.emmetCompletions": true,
+  // "tailwindCSS.includeLanguages": {
+  //   "html": "html",
+  //   "javascript": "javascript",
+  //   "css": "css"
+  // },
+  // LUA
+  // "Lua.telemetry.enable": false,
+  // "[lua]": {
+  //   "editor.quickSuggestions": {
+  //     "comments": "inline",
+  //     "other": "on",
+  //     "strings": "on"
+  //   }
+  // },
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  // Material Icon for Nest
+  // "material-icon-theme.activeIconPack": "nest",
+  "security.workspace.trust.untrustedFiles": "open",
+  "angular.enable-strict-mode-prompt": false,
+  "stylelint.snippet": ["css", "less", "postcss", "scss"],
+  "stylelint.validate": ["css", "less", "postcss", "scss"],
+  "stylelint.enable": true,
+  "redhat.telemetry.enabled": true,
+  "totalTypeScript.hideAllTips": false,
+  "totalTypeScript.hideBasicTips": true,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "totalTypeScript.hiddenTips": ["generic-slots-in-functions"],
+  "vsicons.dontShowNewVersionMessage": true,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, UseTab: Never, IndentWidth: 2, TabWidth: 2, BreakBeforeBraces: Attach, AllowShortIfStatementsOnASingleLine: false, IndentCaseLabels: false, ColumnLimit: 0, AccessModifierOffset: -4 }"
+  // "pixelbyte.love2d.path": "/usr/bin/love-11.3",
+  // "[graphql]": {
+  //   "editor.defaultFormatter": "GraphQL.vscode-graphql",
+  //   "editor.formatOnSave": true
+  // }
+}
